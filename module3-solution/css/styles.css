@@ -1,0 +1,36 @@
+p {
+	padding: 10px;
+}
+
+h3 {
+	padding-top: 10px;
+}
+
+#beef, #chicken, #sushi {
+	margin: 10px;
+}
+
+#beef {
+	background-color: #ccffff;
+}
+#chicken {
+	background-color: #ffff99;
+}
+#sushi {
+	background-color: #99ff99;
+}
+
+#header-nav {
+  background-color: #993300;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand h1 {
+	color: #FFFFFF;
+	font-size: 1.5em;
+	font-weight: bold;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .75;
+}
